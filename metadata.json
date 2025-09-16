@@ -1,0 +1,5 @@
+{
+  "name": "XLSX Date Format Converter",
+  "description": "An application to upload an XLSX file, find all cells with date formats like 'DD MMM YYYY HH:mm' or 'YYYY-MM-DD HH:mm', and convert them to a unified 'DD/MM/YYYY HH:mm:ss' format, then allow downloading the processed file.",
+  "requestFramePermissions": []
+}
